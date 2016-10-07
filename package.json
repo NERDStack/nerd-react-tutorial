@@ -1,0 +1,20 @@
+{
+  "name": "nerd-react-tutorial",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Code borrowed from the React tutorial.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "documentdb": "^1.10.0",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
